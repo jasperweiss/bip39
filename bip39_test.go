@@ -5,9 +5,7 @@ import (
 	"crypto/rand"
 	"encoding/hex"
 	"testing"
-
 	"bip39/wordlists"
-
 	"github.com/stretchr/testify/assert"
 )
 
